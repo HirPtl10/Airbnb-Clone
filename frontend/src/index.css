@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navnav {
+  display: flex;
+  justify-content: space-evenly;
+  /* align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem; */
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2rem;   /* Scales with zoom */
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
